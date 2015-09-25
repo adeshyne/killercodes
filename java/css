@@ -1,0 +1,7 @@
+body {
+	background-image: url(http://www.imagesbuddy.com/images/78/2013/08/cute-super-dog.jpg)
+}
+
+#firstdiv {
+	background-color: orange;
+}
